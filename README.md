@@ -17,6 +17,10 @@
 
 <p align="left"> <a href="https://discord.com/users/darkus#3130" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/darkus13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21139746/andrej-troshin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/darkusss13/badges/large)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/darkus13"><img src="https://github-readme-stats.vercel.app/api?username=darkus13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="darkus13's GitHub stats" /></a>
