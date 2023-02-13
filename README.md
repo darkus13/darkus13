@@ -2,9 +2,6 @@
 Совершенствуюсь в сфере - Python Development, прохожу разные курсы ( ЯндексПрактикум, Strpik), решаю задачки разной сложности на CodeWars)
 Да и просто наслаждаюсь жизнью)
 
-Стек технологий:
-**Python, Django, Django Yandex.Cloud, Bootstrap 4/5, HTML, CSS, git, pytest, unittest, venv другие**
-
 ### Skills
 
 <p align="left">
