@@ -7,9 +7,5 @@
 **Python, Django, Django Yandex.Cloud, Bootstrap 4/5, HTML, CSS, git, pytest, unittest, venv другие**
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=themasterid&hide=contribs&show_icons=true&theme=dark">
-  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=themasterid&hide=contribs&show_icons=true&theme=dark" />
-</a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darkus13)](https://git.io/streak-stats)
-</a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darkus13)](https://git.io/streak-stats)
 </div>
