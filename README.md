@@ -1,4 +1,5 @@
 ### Приветствую! Я - Трошин Андрей | Python разработчик, программист.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 Совершенствуюсь в сфере - Python Development, прохожу разные курсы ( ЯндексПрактикум, Stepik), решаю задачки разной сложности на LeetCode)
 Да и просто наслаждаюсь жизнью)
 
