@@ -7,6 +7,5 @@
 Стек технологий:
 **Python, Django, Django Yandex.Cloud, Bootstrap 4/5, HTML, CSS, git, pytest, unittest, venv другие**
 
-### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darkus13&theme=dark&background=000000)](https://git.io/streak-stats)
