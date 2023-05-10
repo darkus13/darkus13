@@ -1,28 +1,26 @@
 ### Приветствую! Я - Трошин Андрей | Python разработчик, программист.
-Совершенствуюсь в сфере - Python Development, прохожу разные курсы ( ЯндексПрактикум, Strpik), решаю задачки разной сложности на CodeWars)
-Да и просто наслаждаюсь жизнью)))
+Совершенствуюсь в сфере - Python Development, прохожу разные курсы ( ЯндексПрактикум, Stepik), решаю задачки разной сложности на LeetCode)
+Да и просто наслаждаюсь жизнью)
 
-### Skills
+Стек технологий:
+**Python, Django, Django Yandex.Cloud, Bootstrap 4/5, HTML, CSS, git, pytest, unittest, venv другие**
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+## Основной стек технологий
+![Python](/svg/python.svg)
+![Django](/svg/django.svg)
+![HTML](/svg/html-5.svg)
+![CSS](/svg/css3.svg)
+![Git](/svg/git.svg)
 
+## Контакты
+[<img src="./svg/telegram.svg">](https://t.me/darkus13)
+[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:andrej-troshin@inbox.ru)
 
-### Socials
-
-<a href="https://t.me/darkus13" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a>
-<p align="left"> <a href="https://discord.com/users/darkus#3130" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/darkus13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21139746/andrej-troshin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/darkusss13/badges/large)
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/darkus13"><img src="https://github-readme-stats.vercel.app/api?username=darkus13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="darkus13's GitHub stats" /></a>
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=themasterid&hide=contribs&show_icons=true&theme=dark">
+  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=themasterid&hide=contribs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=themasterid&layout=compact&theme=dark">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themasterid&layout=compact&theme=dark" />
+</a>
+</div>
