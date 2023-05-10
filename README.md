@@ -11,4 +11,4 @@
   Стек: **Python, Django, DRF, FastApi, REST API, PostgreSQL, Docker, Redis, Celery, Kafka**
 
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darkus13&theme=dark&background=000000)](https://git.io/streak-stats)
+     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darkus13&theme=dark&background=000000)](https://git.io/streak-stats)
