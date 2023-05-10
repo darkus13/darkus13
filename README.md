@@ -1,5 +1,5 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Andrej+Troshin)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Developer)](https://git.io/typing-svg)
+              [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Andrej+Troshin)](https://git.io/typing-svg)
+              [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Developer)](https://git.io/typing-svg)
 
 - :seedling: **Я увлекаюсь разработкой бэкенда и постоянно стремлюсь расширять свои знания и навыки в этой области. Меня увлекают классные технологии, которые изменяют мир и делают жизнь лучше. В настоящее время я активно изучаю Python и использую его для создания различных проектов.**
 
