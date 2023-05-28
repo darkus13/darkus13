@@ -7,7 +7,8 @@
 
 - :zap: **Я уверен, что моя страсть к бэкенд разработке и стремление к постоянному улучшению позволят мне достичь больших высот в этой области и создавать продукты, которые будут полезны людям по всему миру.**
 
-  
+ 
+ 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,py,django,fastapi,git,kubernetes,docker,bash,kafka,postgres,redis" />
