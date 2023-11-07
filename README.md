@@ -11,6 +11,6 @@
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,py,django,fastapi,git,kubernetes,docker,bash,postgres,redis" />
+    <img src="https://skillicons.dev/icons?i=vscode,py,go,django,fastapi,git,kubernetes,docker,bash,postgres,redis" />
   </a>
 </p>
